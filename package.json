@@ -1,0 +1,25 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "npm": "^6.14.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npx nodemon server/server.js -w server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://acwilliams@bitbucket.org/Mahummel/back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Mahummel/back-end#readme"
+}
